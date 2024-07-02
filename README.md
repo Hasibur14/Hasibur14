@@ -1,18 +1,17 @@
+![logo](https://github.com/Hasibur14/Hasibur14/blob/main/Screenshot%20(79).png)
 <h1 align="center">Hi 👋, I'm Hasibur</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
 I am a front-end developer with hands-on experience in building responsive web applications using HTML, CSS, JavaScript, and frameworks like React.js. I have successfully completed over 4 full-stack projects. I am passionate about leveraging my innovative and creative skills to contribute to company growth through assigned responsibilities. I am now ready to be hired and eager to bring my expertise to a dynamic development team. Let's explore my GitHub and connect with me!
 
-
+<img align="right" alt="coding" width="400" src="https://www.cyanous.com/img/php.gif">
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **..**
 
 - 📫 How to reach me **hasib141415@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YP33Azmbi1-GYHZ4VBRsVZ7tVLvrvMnN/view?usp=sharing](https://drive.google.com/file/d/1YP33Azmbi1-GYHZ4VBRsVZ7tVLvrvMnN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
