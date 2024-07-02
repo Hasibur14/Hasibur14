@@ -1,6 +1,8 @@
 ![logo](https://github.com/Hasibur14/Hasibur14/blob/main/Screenshot%20(79).png)
 <h1 align="center">Hi 👋, I'm Hasibur</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibur14&" alt="hasibur14" /></p>
+![](https://github-profile-trophy.vercel.app/?username=Hasibur14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
 I am a front-end developer with hands-on experience in building responsive web applications using HTML, CSS, JavaScript, and frameworks like React.js. I have successfully completed over 4 full-stack projects. I am passionate about leveraging my innovative and creative skills to contribute to company growth through assigned responsibilities. I am now ready to be hired and eager to bring my expertise to a dynamic development team. Let's explore my GitHub and connect with me!
@@ -25,10 +27,6 @@ I am a front-end developer with hands-on experience in building responsive web a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibur14&show_icons=true&locale=en" alt="hasibur14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibur14&" alt="hasibur14" /></p
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hasibur14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hasibur14&limit=5&theme=dark&combine_all_yearly_contributions=true)
