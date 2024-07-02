@@ -1,4 +1,6 @@
 ![logo](https://github.com/Hasibur14/Hasibur14/blob/main/Screenshot%20(79).png)
+
+[![](https://visitcount.itsvg.in/api?id=Hasibur14&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Hasibur</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 
@@ -36,6 +38,6 @@ I am a front-end developer with hands-on experience in building responsive web a
 ![](https://github-contributor-stats.vercel.app/api?username=Hasibur14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hasibur14&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
