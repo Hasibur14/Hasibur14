@@ -1,4 +1,4 @@
-![logo](https://github.com/Hasibur14/Hasibur14/blob/main/banner.jpg)
+![logo](https://github.com/Hasibur14/Hasibur14/blob/main/bg.jpg)
 
 [![](https://visitcount.itsvg.in/api?id=Hasibur14&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Hasibur</h1>
