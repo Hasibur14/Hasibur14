@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-I am a front-end developer with hands-on experience in building responsive web applications using HTML, CSS, JavaScript, and frameworks like React.js. I have successfully completed over 4 full-stack projects. I am passionate about leveraging my innovative and creative skills to contribute to company growth through assigned responsibilities. I am now ready to be hired and eager to bring my expertise to a dynamic development team. Let's explore my GitHub and connect with me!
+I am a MERN Stack developer with hands-on experience in building responsive web applications using HTML, CSS, JavaScript, TypeScript, and frameworks like React.js, Next.js and also NodeJS, MongoDB. I have successfully completed over 15 full-stack projects. I am passionate about leveraging my innovative and creative skills to contribute to company growth through assigned responsibilities. I am now ready to be hired and eager to bring my expertise to a dynamic development team. Let's explore my GitHub and connect with me!
 
 <img align="right" alt="coding" width="400" src="https://www.cyanous.com/img/php.gif">
 - 🌱 I’m currently learning **Next.js**
