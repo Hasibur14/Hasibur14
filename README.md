@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Hasibur14&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Hasibur</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
+<h3 align="center">A passionate Full Stack developer from BD</h3>
 
 
 # 💫 About Me:
