@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Hasibur%20Rahman&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=220&section=header&text=Hasibur%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js+%2F+TypeScript;Designing+Scalable+Systems+%26+Architecture;15%2B+Production+Projects+Shipped+%F0%9F%9A%80;Available+for+New+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=650&lines=MERN+Stack+%7C+Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js+%2F+TypeScript;Designing+Scalable+Systems+%26+Architecture;30%2B+Production+Projects+Shipped+%F0%9F%9A%80;Available+for+New+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-1a1a2e?style=for-the-badge&logoColor=white)](https://hasibur14-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://hasibur14-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibur-web)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/hasibur_rahmanhasib)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasibur.rahmanhasib.1690)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib141415@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hasib14)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hasibur14&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -138,10 +143,8 @@ If you find my projects helpful or enjoy my work, consider buying me a coffee. I
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Hasibur14&icon=6&color=6&label=Profile+Views)](https://visitcount.itsvg.in)
-
 **✦ Thanks for stopping by — let's build something remarkable together ✦**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=100&section=footer" width="100%"/>
 
 </div>
