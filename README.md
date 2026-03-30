@@ -34,7 +34,7 @@ const hasibur: Developer = {
   stack:    ["React", "Next.js", "Node.js", "TypeScript",
              "MongoDB", "PostgreSQL", "Supabase"],
   learning: "System Design & Architecture",
-  projects: "15+ Full Stack Apps Shipped",
+  projects: "30+ Full Stack Projects Shipped",
   openTo:   "Full-time | Freelance | Remote",
   email:    "hasib141415@gmail.com",
 };
